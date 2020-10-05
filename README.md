@@ -24,3 +24,9 @@ where <version> = major.minor (as exemple 0.1, 1.0, 2.4, ...)
 they should contains the AuxiliariData folder with the Filters, ReddeningCurves and SEDs sub-foldres filled with actual data
 
 The packages must be placed into the Data directory and the last_version.html must contains the <version> 
+
+
+├── Data
+│   ├── AuxiliaryData_0.1.tar.xz
+│   └── AuxiliaryData_0.2.tar.xz
+└── last_version.html
