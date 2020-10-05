@@ -4,7 +4,7 @@ Auxiliary data repository for Phosphoros template fitting tool.
 
 ## Getting the last package from the GUI
 
-When launching Phosphoros GUI, it will check if a newer data package is available here and ask your confirmation for performing an update if needed. c
+When launching Phosphoros GUI, it will check if a newer data package is available here and ask your confirmation for performing an update if needed.
 
 ## Getting the last package from the CLI
 
