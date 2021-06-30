@@ -21,7 +21,8 @@ AuxiliaryData_<version>.tar.xz
 
 where <version> = major.minor (as exemple 0.1, 1.0, 2.4, ...)
 
-they should contains the AuxiliariData folder with the Filters, ReddeningCurves and SEDs sub-foldres filled with actual data
+they should contains the AuxiliaryData folders: the Filters, ReddeningCurves and SEDs, filled with actual data
+
 
 The packages must be placed into the Data directory and the last_version.html must contains the <version> 
 
@@ -31,3 +32,5 @@ The packages must be placed into the Data directory and the last_version.html mu
 │   └── AuxiliaryData_0.2.tar.xz
 └── last_version.html
 ```
+
+
