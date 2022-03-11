@@ -33,4 +33,6 @@ The packages must be placed into the Data directory and the last_version.html mu
 └── last_version.html
 ```
 
+## Quick Start Data
 
+We store also in this repository a set of files to be used in a quick start tutorial. The files are packaged in a .tar located in the QuickStartData folder.
